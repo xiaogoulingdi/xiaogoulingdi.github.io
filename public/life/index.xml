@@ -9,17 +9,17 @@
     <lastBuildDate>Sat, 18 Oct 2025 15:32:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_day</title>
-      <link>http://localhost:1313/life/20251018/first_day/</link>
+      <link>http://localhost:1313/life/20251018/</link>
       <pubDate>Sat, 18 Oct 2025 15:32:10 +0800</pubDate>
       
-      <guid>http://localhost:1313/life/20251018/first_day/</guid>
+      <guid>http://localhost:1313/life/20251018/</guid>
       
         <description>&lt;h2 id=&#34;计划在life章节记录一些生活事件&#34;&gt;This is a first test blog.
 计划在life章节记录一些生活事件&lt;/h2&gt;
 &lt;p&gt;1.1号楼窗外
-&lt;img src=&#34;./p1.png&#34; alt=&#34;1号楼窗外&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;./20251018_life_p1.png&#34; alt=&#34;1号楼窗外&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2.睡觉的小猫
-&lt;img src=&#34;./p2.png&#34; alt=&#34;睡觉的小猫&#34;&gt;&lt;/p&gt;</description>
+&lt;img src=&#34;./20251018_life_p2.png&#34; alt=&#34;睡觉的小猫&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
