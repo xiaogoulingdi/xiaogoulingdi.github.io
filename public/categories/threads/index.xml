@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Threads on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/threads/</link>
+    <description>Recent content in Threads on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 15:32:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First_day</title>
-      <link>http://localhost:1313/life/20251018/first_day/</link>
-      <pubDate>Sat, 18 Oct 2025 15:32:10 +0800</pubDate>
-      
-      <guid>http://localhost:1313/life/20251018/first_day/</guid>
-      
-        <description>&lt;h2 id=&#34;计划在life章节记录一些生活事件&#34;&gt;This is a first test blog.
-计划在life章节记录一些生活事件&lt;/h2&gt;
-&lt;p&gt;1.1号楼窗外
-&lt;img src=&#34;./p1.png&#34; alt=&#34;1号楼窗外&#34;&gt;&lt;/p&gt;
-&lt;p&gt;2.睡觉的小猫
-&lt;img src=&#34;./p2.png&#34; alt=&#34;睡觉的小猫&#34;&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 18 Oct 2025 15:32:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/threads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>threads的摘抄</title>
       <link>http://localhost:1313/threads_record/20251018/</link>
@@ -35,17 +19,6 @@
 &lt;img src=&#34;./p1.png&#34; alt=&#34;threads的摘抄1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;2.真正的谦逊
 &lt;img src=&#34;./p2.png&#34; alt=&#34;threads的摘抄2&#34;&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>学习记录</title>
-      <link>http://localhost:1313/study/20251018/20251018/</link>
-      <pubDate>Sat, 18 Oct 2025 15:32:10 +0800</pubDate>
-      
-      <guid>http://localhost:1313/study/20251018/20251018/</guid>
-      
-        <description>&lt;p&gt;计划在这个页面记录一些学习记录，练习latex语法&lt;/p&gt;</description>
       
     </item>
     
