@@ -1,4 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://xiaogoulingdi.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anatole'
+
+[params]
+    title = "xiaogoulingdi"
+    author = "小狗领地"
+    description = "为了寻找你我搬进鸟的眼睛，经常盯着路过的风，很高兴遇见你！"
+    email = "wuhaoyang807@gmail.com"
+    profilePicture = "/image/user_image.jpg"
+
+[[params.socialIcons]]
+
+    icon = "fab fa-github"
+    title = "Github"
+    url = "https://github.com/xiaogoulingdi"
+
+[[params.socialIcons]]
+  icon  = "fas fa-envelope"
+  title = "Email"
+  url   = "mailto:wuhaoyang807@gmail.com"
